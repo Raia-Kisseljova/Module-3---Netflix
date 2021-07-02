@@ -1,0 +1,65 @@
+body{
+    height: 100vh;
+    background-image: url(./img/Heres\ How\ Download\ and\ Watch\ Netflix\ Offline.jpg);
+    color: white;
+    
+}
+
+.container-fluid{
+    background-image: linear-gradient(to top,rgba(0,0,0,.8) 0,rgba(0,0,0,0) 60%,rgba(0,0,0,.8) 100%);
+    background-color: rgba(0,0,0,0.3);
+    height: 100vh;
+}
+
+    
+.nav{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 15px;
+    margin: 0 15px;
+}
+
+
+ .nav img{
+    width: 200px;
+}
+
+
+.form{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: auto;
+    width: 350px;
+}
+
+.login-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0,0,0,0.8);
+    height: 660px;
+    width: 450px;
+    margin: 0 auto;
+}
+
+.form input{
+    color: black;
+    border-radius: 5px;
+    border: none;
+    height: 50px;
+    
+}
+
+.form .btn-block{
+    background-color: #E50914;
+    color: white;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.remember-me-checkbox{
+    display: flex;
+    align-items: center;
+}
+

@@ -1,0 +1,162 @@
+body{
+    background-color: #0E0E0E;
+}
+
+.mycontainer{
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    width: 60%;
+    
+    margin:60px 330px;
+    background: rgb(5,5,5);
+background: linear-gradient(180deg, rgba(5,5,5,1) 1%, rgba(16,16,16,1) 7%, rgba(27,27,27,1) 10%, rgba(28,28,28,1) 18%);
+}
+
+.netflix{
+    width: 120px;
+    position: absolute;
+    top: 15px;
+    left: 12px;
+}
+
+.col h1{
+    letter-spacing: 2px;
+}
+
+
+
+hr{
+    background-color: white;
+    width: 100%;
+    
+}
+
+
+.container{
+    position: relative;
+    color: white;
+}
+
+.row img{
+    margin-top: 220px;
+    margin-left: 120px;
+    margin-bottom: 0;
+    width: 150px;
+    border-radius: 2px;
+}
+
+
+
+
+
+.check4{
+    background-color: cadetblue;
+}
+
+.check2{
+    width: 300px;
+}
+
+.check2 h1{
+    font-size: 35px;
+    margin-top: 100px;
+    padding-right: 70px;
+   
+}
+
+
+
+.student{
+    color: white;
+    background-color: rgb(63, 62, 62);
+    padding: 0.60rem;
+    
+    
+}
+
+.settings{
+    color: rgb(82, 81, 81);
+    background-color: none;
+    font-size: 25px;
+}
+.all{
+    background-color: rgb(63, 62, 62);
+    color: white;
+    font-size: 16px;
+
+    width: 70%;
+    padding: 0.3rem;
+}
+
+.check3 h1{
+    margin-bottom: 0;
+    margin-top: 150px;
+}
+
+.showAll{
+font-size: 14px;
+
+}
+
+#dropdownMenuButton1{
+    color: white;
+    background-color: black;
+}
+.press-edit{
+    padding: 0.3rem;
+    border-radius: 0;
+    width: 100px;
+    color: rgb(82, 81, 81);
+    border: 1px solid rgb(82, 81, 81);
+    background-color: transparent;
+}
+
+.auto{
+    font-size: 25px;
+    margin-bottom: 0;
+    color: rgb(82, 81, 81);
+}
+
+.checked img{
+    width: 30px;
+    
+}
+ul{
+    list-style: none;
+}
+
+ul li{
+    font-size: 14px;
+    
+}
+
+.btn{
+    padding:0.5rem;
+    color: gray;
+    border:2px solid gray;
+    border-radius: 0;
+    
+    margin-right: 20px;
+    width: 150px;
+
+    
+}
+
+.save{
+    background-color: white;
+    color: black;
+    font-weight: 600;
+    border-color: white;
+}
+
+.for-buttons{
+    margin-left: 400px;
+}
+
+@media screen and (max-width: 500px){
+
+
+
+
+
+}

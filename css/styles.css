@@ -1,0 +1,76 @@
+footer{
+    padding-top: 150px;
+    font-weight: 400;
+    background-color: #141414;
+    font-size: 16px;
+    width: 100%;
+    color: rgb(156, 151, 151);
+}
+
+.container img{
+    margin: 25px 7px 10px 5px;
+    
+    padding-top: 30px;
+}
+
+#bodybackgroundcolor {
+    background-color: #141414;
+}
+
+.border{
+    border: none !important;
+}
+
+
+h3{
+    font-weight: 400;
+    color: white;
+    margin-left: 15px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+
+.row img{
+    padding-left: 15px;
+}
+
+.net {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+.twitter{
+    width: 28px;
+}
+.inst{
+    width: 27px;
+}
+
+.facebook{
+    width: 28px;
+}
+
+.youtube{
+    width: 30px;
+}
+
+.copyr{
+    font-size: 12px;
+    padding-bottom: 15px;
+}
+
+.btn{
+    width: 125px;
+    margin:15px 0;
+    border-radius: 0;
+    padding: 0.20rem;
+    border: 2px solid gray;
+    color: gray;
+}
+
+.btn:hover{
+    color:rgb(184, 184, 184);
+    border:2px solid rgb(184, 184, 184);
+}
